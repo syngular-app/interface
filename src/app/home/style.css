@@ -1,0 +1,132 @@
+.home {
+    background-color: #121212;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    max-width: 100vw;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+  
+  .home .div {
+    background-color: #121212;
+    height: 932px;
+    position: relative;
+    width: 430px;
+    max-width: 100vw;
+    overflow-x: hidden;
+    overflow-y: hidden
+  }
+  
+  .home .overlap-group {
+    background-color: #f9f9f9;
+    border-radius: 50px 50px 0px 0px;
+    height: 823px;
+    left: 0;
+    position: absolute;
+    top: 109px;
+    width: 430px;
+    max-width: 100vw;
+  }
+  
+  .home .text-wrapper {
+    color: #0558f6;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 68px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 90px;
+    white-space: nowrap;
+    max-width: 100vw;
+  }
+  
+  .home .overlap {
+    height: 399px;
+    left: 7px;
+    position: absolute;
+    top: 183px;
+    width: 416px;
+    max-width: 100vw;
+  }
+  
+  .home .q-rcode {
+    height: 283px;
+    left: 66px;
+    object-fit: cover;
+    position: absolute;
+    top: 61px;
+    width: 283px;
+    max-width: 100vw;
+  }
+  
+  .home .chevron-left {
+    height: 99px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 99px;
+    max-width: 100vw;
+  }
+  
+  .home .img {
+    height: 99px;
+    left: 9px;
+    position: absolute;
+    top: 299px;
+    width: 99px;
+    max-width: 100vw;
+  }
+  
+  .home .chevron-left-2 {
+    height: 99px;
+    left: 316px;
+    position: absolute;
+    top: 299px;
+    width: 99px;
+    max-width: 100vw;
+  }
+  
+  .home .chevron-left-3 {
+    height: 99px;
+    left: 317px;
+    position: absolute;
+    top: 0;
+    width: 99px;
+  }
+  
+  .home .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 86px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 607px;
+  }
+  
+  .home .p {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 646px;
+  }
+  
+  .home .align-justify {
+    height: 34px;
+    left: 26px;
+    position: absolute;
+    top: 36px;
+    width: 34px;
+  }
+  

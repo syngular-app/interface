@@ -1,0 +1,30 @@
+@keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+.splash-screen {
+    background-color: #121212;
+    border-radius: 20px;
+    height: 932px;
+    overflow: hidden;
+    position: relative;
+    width: 430px;
+  }
+  
+  .splash-screen .logo {
+    height: 137px;
+    left: 133px;
+    position: absolute;
+    top: 398px;
+    width: 162px;
+    animation: pulse 2s infinite;
+  }
+  
