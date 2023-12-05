@@ -1,0 +1,331 @@
+.histrico {
+    background-color: #121212;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.histrico .div {
+    background-color: #121212;
+    height: 1032px;
+    position: relative;
+    width: 430px;
+}
+
+.histrico .overlap {
+    height: 116px;
+    left: 46px;
+    position: absolute;
+    top: 164px;
+    width: 336px;
+}
+
+.histrico .rectangle {
+    background-color: #0558f6;
+    border-radius: 10px;
+    height: 116px;
+    left: 252px;
+    position: absolute;
+    top: 0;
+    width: 44px;
+}
+
+.histrico .navbar {
+    align-items: center;
+    display: inline-flex;
+    gap: 36px;
+    justify-content: center;
+    left: 0;
+    position: absolute;
+    top: 14px;
+}
+
+.histrico .text-wrapper {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.histrico .navbar-2 {
+    align-items: center;
+    display: inline-flex;
+    gap: 38px;
+    justify-content: center;
+    left: 2px;
+    position: absolute;
+    top: 66px;
+}
+
+.histrico .out {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 115px;
+}
+
+.histrico .span {
+    font-weight: 600;
+}
+
+.histrico .text-wrapper-2 {
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+}
+
+.histrico .calendar {
+    height: 32px;
+    left: 46px;
+    position: absolute;
+    top: 114px;
+    width: 32px;
+}
+
+.histrico .line {
+    height: 17px;
+    left: 38px;
+    object-fit: cover;
+    position: absolute;
+    top: 302px;
+    width: 352px;
+}
+
+.histrico .arrow-left {
+    height: 38px;
+    left: 23px;
+    position: absolute;
+    top: 32px;
+    width: 41px;
+}
+
+.histrico .overlap-group {
+    height: 683px;
+    left: 44px;
+    position: absolute;
+    top: 349px;
+    width: 25px;
+}
+
+.histrico .img {
+    height: 683px;
+    left: 12px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+
+.histrico .ellipse {
+    height: 24px;
+    left: 1px;
+    position: absolute;
+    top: 38px;
+    width: 24px;
+}
+
+.histrico .ellipse-2 {
+    height: 24px;
+    left: 1px;
+    position: absolute;
+    top: 142px;
+    width: 24px;
+}
+
+.histrico .ellipse-3 {
+    height: 24px;
+    left: 1px;
+    position: absolute;
+    top: 246px;
+    width: 24px;
+}
+
+.histrico .ellipse-4 {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 350px;
+    width: 24px;
+}
+
+.histrico .ellipse-5 {
+    height: 24px;
+    left: 1px;
+    position: absolute;
+    top: 454px;
+    width: 24px;
+}
+
+.histrico .ellipse-6 {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 558px;
+    width: 24px;
+}
+
+.histrico .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 86px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 367px;
+    white-space: nowrap;
+}
+
+.histrico .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 79px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 474px;
+    white-space: nowrap;
+}
+
+.histrico .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 81px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 578px;
+    white-space: nowrap;
+}
+
+.histrico .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 83px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 682px;
+    white-space: nowrap;
+}
+
+.histrico .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 79px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 786px;
+    white-space: nowrap;
+}
+
+.histrico .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 79px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 890px;
+    white-space: nowrap;
+}
+
+.histrico .entrada-sa-da {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 88px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 398px;
+    white-space: nowrap;
+}
+
+.histrico .entrada-h-sa-da {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 81px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 505px;
+    white-space: nowrap;
+}
+
+.histrico .entrada-sa-da-2 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 83px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 609px;
+    white-space: nowrap;
+}
+
+.histrico .entrada-sa-da-3 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 85px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 713px;
+    white-space: nowrap;
+}
+
+.histrico .entrada-sa-da-4 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 81px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 817px;
+    white-space: nowrap;
+}
+
+.histrico .entrada-sa-da-5 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 81px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 921px;
+    white-space: nowrap;
+}
