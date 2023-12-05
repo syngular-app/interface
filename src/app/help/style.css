@@ -1,0 +1,83 @@
+.ajuda {
+    background-color: #121212;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.ajuda .div {
+    background-color: #121212;
+    height: 932px;
+    position: relative;
+    width: 430px;
+}
+
+.ajuda .text-wrapper {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 78px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 358px;
+    white-space: nowrap;
+}
+
+.ajuda .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 78px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 392px;
+    white-space: nowrap;
+}
+
+.ajuda .text-wrapper-3 {
+    color: #0558f6;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 169px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 180px;
+    white-space: nowrap;
+}
+
+.ajuda .message-circle {
+    height: 47px;
+    left: 190px;
+    position: absolute;
+    top: 110px;
+    width: 47px;
+}
+
+.ajuda .arrow-left {
+    height: 38px;
+    left: 23px;
+    position: absolute;
+    top: 32px;
+    width: 41px;
+}
+
+.ajuda .p {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 44px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 258px;
+    width: 336px;
+}
