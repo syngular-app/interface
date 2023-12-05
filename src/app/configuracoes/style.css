@@ -1,0 +1,127 @@
+.config {
+    background-color: #121212;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.config .div-2 {
+    background-color: #121212;
+    height: 932px;
+    position: relative;
+    width: 430px;
+}
+
+.config .text-wrapper {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 106px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 283px;
+}
+
+.config .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 106px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 372px;
+}
+
+.config .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 106px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 461px;
+}
+
+.config .log-out {
+    height: 24px;
+    left: 56px;
+    position: absolute;
+    top: 465px;
+    width: 24px;
+}
+
+.config .text-wrapper-4 {
+    color: #0558f6;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 106px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 175px;
+    white-space: nowrap;
+}
+
+.config .bell {
+    height: 24px;
+    left: 56px;
+    position: absolute;
+    top: 287px;
+    width: 24px;
+}
+
+.config .globe {
+    height: 24px;
+    left: 56px;
+    position: absolute;
+    top: 376px;
+    width: 24px;
+}
+
+.config .settings {
+    height: 45px;
+    left: 192px;
+    position: absolute;
+    top: 115px;
+    width: 45px;
+}
+
+.config .arrow-left {
+    height: 38px;
+    left: 23px;
+    position: absolute;
+    top: 32px;
+    width: 41px;
+}
+
+.config .chevron-down {
+    height: 28px;
+    left: 336px;
+    position: absolute;
+    top: 373px;
+    width: 28px;
+}
+
+.config .component-1 {
+    height: 31px !important;
+    left: 324px !important;
+    position: absolute !important;
+    top: 283px !important;
+    width: 61px !important;
+}
+
+.config .component-instance {
+    border-radius: 12.2px/12.4px !important;
+    height: 25px !important;
+    left: 3px !important;
+    top: 3px !important;
+    width: 24px !important;
+}
