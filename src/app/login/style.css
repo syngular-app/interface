@@ -1,0 +1,94 @@
+.login {
+    background-color: #121212;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.login .div-2 {
+    background-color: #121212;
+    height: 932px;
+    position: relative;
+    width: 430px;
+}
+
+.login .esqueceu-sua-senha {
+    color: transparent;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 98px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 716px;
+}
+
+.login .span {
+    color: #ffffff;
+}
+
+.login .text-wrapper-3 {
+    color: #0558f6;
+}
+
+.login .text-wrapper-4 {
+    color: #0558f6;
+    text-decoration: underline;
+}
+
+.login .entrar {
+    height: 59px;
+    left: 45px;
+    position: absolute;
+    top: 628px;
+    width: 342px;
+}
+
+.login .div-wrapper {
+    background-color: #0558f6;
+    border-radius: 15px;
+    height: 59px;
+    position: relative;
+    width: 340px;
+}
+
+.login .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 140px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 18px;
+    white-space: nowrap;
+}
+
+.login .imput-usurio {
+    left: 45px !important;
+    position: absolute !important;
+    top: 361px !important;
+}
+
+.login .imput-senha-instance {
+    left: 45px !important;
+    position: absolute !important;
+    top: 450px !important;
+}
+
+.login .logo {
+    height: 137px;
+    left: 133px;
+    position: absolute;
+    top: 108px;
+    width: 162px;
+}
+
+.login .component-2 {
+    left: 45px !important;
+    position: absolute !important;
+    top: 539px !important;
+}
