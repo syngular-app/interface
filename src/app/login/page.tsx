@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import Image from "next/image"
 import { useRouter } from 'next/navigation';
 
-import logo from "@/src/assets/images/login/Logo.png"
+import logo from "@/public/assets/images/Logo.png"
 
 import { InputEmpresa } from "@/src/app/components/inputs/id-empresa";
 import { InputSenha } from "@/src/app/components/inputs/senha";
