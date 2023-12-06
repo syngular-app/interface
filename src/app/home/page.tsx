@@ -3,7 +3,6 @@ import Image from "next/image"
 
 import "./style.css";
 import qrcode from "@/src/assets/images/home/qrcode.png";
-import chevron from "@/src/assets/images/home/chevron-left.png"
 import menu from "@/src/assets/images/home/align-justify.png"
 
 export default function Home () {

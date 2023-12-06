@@ -1,0 +1,45 @@
+.imput-senha {
+    background-color: #f9f9f9;
+    border-radius: 15px;
+    height: 59px;
+    position: relative;
+    width: 340px;
+  }
+  
+  .imput-senha .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 53px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 19px;
+    white-space: nowrap;
+  }
+  
+  .imput-senha .overlap-group {
+    height: 19px;
+    left: 22px;
+    position: absolute;
+    top: 19px;
+    width: 16px;
+  }
+  
+  .imput-senha .vector {
+    height: 11px;
+    left: 0;
+    position: absolute;
+    top: 8px;
+    width: 16px;
+  }
+  
+  .imput-senha .img {
+    height: 10px;
+    left: 3px;
+    position: absolute;
+    top: 0;
+    width: 10px;
+  }
+  

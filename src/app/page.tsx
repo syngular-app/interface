@@ -13,7 +13,7 @@ export default function SplashScreen () {
   React.useEffect(() => {
 
     const timer = setTimeout(() => {
-      router.push('/home');
+      router.push('/login');
     }, 5000);
 
     return () => clearTimeout(timer);

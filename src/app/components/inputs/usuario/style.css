@@ -1,0 +1,37 @@
+.imput-usu-rio {
+    background-color: #f9f9f9;
+    border-radius: 15px;
+    height: 59px;
+    position: relative;
+    width: 340px;
+  }
+  
+  .imput-usu-rio .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 53px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 19px;
+    white-space: nowrap;
+  }
+  
+  .imput-usu-rio .vector {
+    height: 7px;
+    left: 22px;
+    position: absolute;
+    top: 30px;
+    width: 16px;
+  }
+  
+  .imput-usu-rio .img {
+    height: 9px;
+    left: 25px;
+    position: absolute;
+    top: 19px;
+    width: 9px;
+  }
+  

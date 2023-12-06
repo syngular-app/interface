@@ -1,0 +1,45 @@
+.component {
+    background-color: #f9f9f9;
+    border-radius: 15px;
+    height: 59px;
+    position: relative;
+    width: 340px;
+  }
+  
+  .component .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 53px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 19px;
+    white-space: nowrap;
+  }
+  
+  .component .overlap-group {
+    height: 16px;
+    left: 23px;
+    position: absolute;
+    top: 21px;
+    width: 16px;
+  }
+  
+  .component .vector {
+    height: 13px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 16px;
+  }
+  
+  .component .img {
+    height: 16px;
+    left: 4px;
+    position: absolute;
+    top: 0;
+    width: 8px;
+  }
+  
